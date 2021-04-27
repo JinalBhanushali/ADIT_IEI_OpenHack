@@ -1,5 +1,3 @@
-
-
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
@@ -17,15 +15,11 @@ function App() {
 
     return (
         <div>
-         
             <div className="">
-           
                 <nav class="navbar navbar-expand-lg  position-fixed ">
                     <a class="navbar-brand navbarimg" href="#home">
                         <img src={Logo} alt="logo" />
                     </a>
-    
-
                     <div
                         class="collapse navbar-collapse "
                         id="navbarSupportedContent navbar"
