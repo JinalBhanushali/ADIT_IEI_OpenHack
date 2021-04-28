@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/css/main.4d46da4f.chunk.css",
+    "main.js": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/main.bd907294.chunk.js",
+    "main.js.map": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/main.bd907294.chunk.js.map",
+    "runtime-main.js": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/runtime-main.ef9ce1a6.js",
+    "runtime-main.js.map": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/runtime-main.ef9ce1a6.js.map",
+    "static/js/2.78fd53c3.chunk.js": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/2.78fd53c3.chunk.js",
+    "static/js/2.78fd53c3.chunk.js.map": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/2.78fd53c3.chunk.js.map",
+    "static/js/3.b4d9726e.chunk.js": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/3.b4d9726e.chunk.js",
+    "static/js/3.b4d9726e.chunk.js.map": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/3.b4d9726e.chunk.js.map",
+    "index.html": "/JinalBhanushali/ADIT_IEI_OpenHack.git/index.html",
+    "static/css/main.4d46da4f.chunk.css.map": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/css/main.4d46da4f.chunk.css.map",
+    "static/js/2.78fd53c3.chunk.js.LICENSE.txt": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/js/2.78fd53c3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/media/DSEG7Classic-BoldItalic.ea4e93b1.ttf",
+    "static/media/logo.5b04bcc9.jpg": "/JinalBhanushali/ADIT_IEI_OpenHack.git/static/media/logo.5b04bcc9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef9ce1a6.js",
+    "static/js/2.78fd53c3.chunk.js",
+    "static/css/main.4d46da4f.chunk.css",
+    "static/js/main.bd907294.chunk.js"
+  ]
+}
